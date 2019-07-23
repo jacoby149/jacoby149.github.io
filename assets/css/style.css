@@ -1054,31 +1054,6 @@ For Menu Bar Design
 	font-family: 'pt_sansitalic';
 }
 
-/* For Video Section*/
-.video{
-	background: url(../images/video.jpg) no-repeat center center;
-	background-size: cover;
-	-moz-background-size: cover;
-	-webkit-background-size: cover;
-	width: 100%;
-	color:#fff;
-}
-.video-content{
-	margin-top:200px;
-}
-.video .video-content a{
-	border-bottom:0;
-}
-.video .video-content a i{
-	border: 1px solid #fff;
-    height: 80px;
-    width: 80px;
-    line-height: 80px;
-    border-radius: 100%;
-    text-align: center;
-	color:#fff;
-	font-size:30px;
-}
 
 /* For Skills Section*/
 
