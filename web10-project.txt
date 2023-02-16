@@ -1,0 +1,7 @@
+web10 is a project I am very proud of!
+web1 is a platform I invented for users of the internet to own their own data
+That means photos, images, text data.
+homepage : https://web10.app
+app store : https://web10auth.netlify.app
+platform code : https://github.com/jacoby149/web10
+docs: https://docs.web10.app
