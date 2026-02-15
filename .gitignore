@@ -2,3 +2,5 @@
 Thumbs.db
 ~$resume.docx
 *.tmp
+assets/.DS_Store
+**.DS_Store
